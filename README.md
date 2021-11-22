@@ -9,5 +9,4 @@
 - 💬 Ask me about Flutter 
 - 📫 How to reach me: https://www.linkedin.com/in/wiam-naama/
 - 😄 Pronouns: He.
-- ⚡ Fun fact:  I speak 2 languages ( English, Arabic)
--->
+- ⚡ Fun fact:  I speak 2 languages ( English, Arabic).
