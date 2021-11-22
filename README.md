@@ -10,3 +10,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/wiam-naama/
 - 😄 Pronouns: He.
 - ⚡ Fun fact:  I speak 2 languages ( English, Arabic).
+
+### Languages and tools
+
