@@ -2,9 +2,8 @@
 
 
 
-- 🔭 I’m currently working on my projects using Flutter and Laravel.
-- 🌱 I’m currently learning Laravel API.
-- 👯 I’m looking to collaborate on an open-source project that is related to flutter & Laravel API.
+- 🔭 I’m currently working on my projects using Flutter.
+- 👯 I’m looking to collaborate on an open-source project that is related to flutter.
 - 🤔 I’m looking for help with Docker and CI/CD.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: https://www.linkedin.com/in/wiam-naama/
@@ -17,19 +16,9 @@
  *  BLoC pattern
  *  API consuming
 
-### Backend Development Skills:
- *  PHP
- *  Laravel
- *  API design
- *  Database design
- *  sql
- *  ORM
- *  REST
- 
  ### Tools:
  * Git
  * GitHub
- * Docker
  * CI/CD
  * Postman
  
