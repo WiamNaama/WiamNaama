@@ -2,33 +2,25 @@
 
 
 
-- 🔭 I’m currently working on my projects using Flutter.
-- 👯 I’m looking to collaborate on an open-source project that is related to flutter.
-- 🤔 I’m looking for help with Docker and CI/CD.
+- 🔭 I’m currently working on my projects using Flutter, Android Kotlin.
+- 👯 I’m looking to collaborate on an open-source project that is related to flutter, Android Kotlin.
+- 🤔 I’m looking for help with CI/CD.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: https://www.linkedin.com/in/wiam-naama/
 - 😄 Pronouns: He.
 - ⚡ Fun fact:  I speak 2 languages ( English, Arabic).
 
 ### Mobile Development Skills:
- *  Dart
- *  Flutter
- *  BLoC pattern
- *  API consuming
+ *  Dart, Flutter, BLoC, REST API, Clean Architecture.
+ *  Kotlin, Android, MVVM, Retrofit.
 
  ### Tools:
- * Git
- * GitHub
- * CI/CD
- * Postman
+ * Git, GitHub
+ * Codemagic, Postman, Swagger.
  
  ### General Conscpets:
- * Agile
- * Scrum
- * Testing
-
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+ * Agile, Scrum, Testing.
+ * Design Principles, Design Patterns. 
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WiamNaama&show_icons=true)  
